@@ -15,4 +15,4 @@ void SieveOfEratosthenes(int n)
                 prime[i] = false; 
         } 
     } 
-} 
+};
